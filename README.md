@@ -57,9 +57,12 @@ This notebook includes:
 
 -Connect Power BI to the PostgreSQL database
 
+
+
 5️⃣ Build the Dashboard & Reports
 
 -Create an interactive dashboard in Power BI
+![image alt](https://github.com/Malithi02/customer-shopping-behavior-analysis/blob/f0b865ed7ce30889ac6eaa5ce95571c4a947fb18/dashboard.png)
 
 -Prepare a detailed project report
 
