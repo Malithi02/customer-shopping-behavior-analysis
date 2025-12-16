@@ -17,6 +17,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+![image alt](https://github.com/Malithi02/customer-shopping-behavior-analysis/blob/b4db8967862f64cd5b838aeb4c403f51c2eeb3c8/overview.png)
+
 
 🛠️ How to Use This Project
 
